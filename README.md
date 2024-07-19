@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi there 👋
+I'm Elenani, an innovative AI Engineer & Fitness Enthusiast. I specialize in pushing the boundaries of what's possible with Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision.
 
-<!--
-**KhalidMustafaElenani/KhalidMustafaElenani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Expertise
+Machine Learning & Deep Learning
+Natural Language Processing
+Computer Vision & Image Processing
+Reinforcement Learning
+Optimization Techniques & Swarm Optimization
+🤖 Passionate About
+Advanced Robotics
+Dynamic Localization
+Precision Path Planning
+🛠️ Skills & Tools
+Programming: Python
+Tools: VS Code, Jupyter Notebook, Colab
+🎓 Education
+Bachelor's Degree in AI from a top-tier institution
+🎖️ Certifications
+AWS Certified Professional
+📧 Contact
+Email: [Your Email]
+WhatsApp: [Your WhatsApp Number]
+💪 Personal Edge
+Combining my rigorous training as a personal trainer with a relentless drive for AI innovation, I excel in organizing and executing complex projects. My commitment to excellence ensures exceptional results and transformative solutions.
