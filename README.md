@@ -22,6 +22,7 @@ I am an innovative AI Engineer and Fitness Enthusiast, dedicated to pushing the 
 * Data Analysis: Pandas, NumPy, Scikit-learn
 * Tools & Environments: VS Code, Jupyter Notebook, Google Colab.
 * Cloud Platforms: AWS.
+* Operating Systems: Linux (proficient with command lines)
 
 ### 🎓 Education
 * Bachelor's Degree in AI from AAST - New Alamein - Egypt
