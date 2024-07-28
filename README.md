@@ -3,13 +3,14 @@ I am an innovative AI Engineer and Fitness Enthusiast, dedicated to pushing the 
 
 ### 🌟 Expertise
 * Machine Learning, Deep Learning & Reinforcement Learning
-* Data Science & Pattern Recognition
-* Natural Language Processing
 * Computer Vision & Image Processing
+* Virtual & Augmented Reality
+* Natural Language Processing
+* Data Science & Pattern Recognition
 * Cognitive Computing
 * Optimization Techniques & Swarm Optimization
 * Robotics, Localization & Path Planning
-  
+
 ### 🔍 Passion Areas
 * Machine Learning, Deep Learning & Reinforcement Learning
 * Natural Language Processing
