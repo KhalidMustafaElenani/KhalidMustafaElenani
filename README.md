@@ -37,4 +37,4 @@ I am an innovative AI Engineer and Fitness Enthusiast, dedicated to pushing the 
 * Email: khalidelenani484@gmail.com
   
 ### 💪 Personal Edge
-Leveraging my background as a personal trainer alongside my passion for AI, I am dedicated to excellence and precision. I’m proud of my OCD and not shy about it; it helps me deliver the best version of every project. My meticulous attention to detail ensures exceptional results and transformative solutions for every endeavor I undertake.
+Leveraging my background as a personal trainer alongside my passion for AI, I am dedicated to excellence and precision. My meticulous attention to detail ensures exceptional results and transformative solutions for every endeavor I undertake.
