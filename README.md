@@ -40,4 +40,3 @@ I bring the same mindset to AI: consistency, precision, and long-term improvemen
 
 ### 📬 Contact
 * Email: khalidelenani484@gmail.com
-* LinkedIn: linkedin.com/in/khalid-mustafa-elenani
