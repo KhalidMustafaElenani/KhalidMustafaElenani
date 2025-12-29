@@ -1,5 +1,5 @@
 ### 👋 Greetings, I’m Khalid!
-I’m an Artificial Intelligence Engineer focused on building practical, production-oriented AI systems that solve real problems. My work spans machine learning, computer vision, and data science, with a strong foundation in cloud infrastructure and cybersecurity, enabling me to design AI solutions that are not only intelligent—but also secure, scalable, and reliable.
+I’m a Software Engineer focused on building practical, production-oriented AI systems that solve real problems. My work spans machine learning, computer vision, and data science, with a strong foundation in cloud infrastructure and cybersecurity, enabling me to design AI solutions that are not only intelligent—but also secure, scalable, and reliable.
 
 I care less about hype and more about measurable impact: models that work, pipelines that scale, and systems that survive the real world.
 
@@ -10,11 +10,12 @@ I care less about hype and more about measurable impact: models that work, pipel
 * Integrate AI with cloud platforms and security-aware architectures
 
 ### 🧠 Technical Focus
-* Artificial Intelligence & Data Science: Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, Feature Engineering, Statistical Analysis, Data Visualization
-* ML & CV Stack: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, OpenCV
-* Cybersecurity: Threat Detection, SIEM, Network Security, Penetration Testing, Incident Response, Digital Forensics, Encryption & Authentication
-* Cloud & Systems: AWS, Oracle Cloud, Secure Deployment, Linux
-* Programming: Python, SQL, C, C#, Linux
+* Artificial Intelligence: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), Generative AI, Large Language Models (LLMs).
+* Data Science & Analytics: Feature Engineering, Statistical Analysis, Data Modeling, Data Visualization, Reporting, Microsoft Excel, Power BI, R, Tableau.
+* Cybersecurity: Threat Detection, SIEM, Risk Management, Penetration Testing, Network Security, Firewalls, Encryption, Authentication, Incident Response, Digital Forensics.
+* Cloud Computing: Amazon Web Services (AWS), Oracle Cloud, Cloud Infrastructure, Deployment & Monitoring.
+* ML & Data Libraries: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, OpenCV.
+* Software Development: Python, C, C#, SQL, Linux, Git/GitHub.
 
 ### 🧪 Selected Project Highlights
 * GeoMatch (SuperPoint & SuperGlue): Vision-based GPS estimation with >95% feature-matching accuracy
@@ -34,7 +35,7 @@ I care less about hype and more about measurable impact: models that work, pipel
 * Oracle Cloud & AI Specialization
   
 ### 💪 Personal Edge
-Discipline from 9+ years of serious training meets engineering rigor.
+Discipline from 3+ years of serious training meets engineering rigor.
 I bring the same mindset to AI: consistency, precision, and long-term improvement. No shortcuts—just systems that work.
 
 ### 📬 Contact
