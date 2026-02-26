@@ -31,9 +31,10 @@ I care less about hype and more about measurable impact: models that work, pipel
   * Coached 100+ officers in AI, ML, and problem solving at the Egyptian Military Academy
   
 ### 🧾 Certifications
-* Google Cybersecurity Professional Certificate
+* Google Cybersecurity Professional Specialization
 * Oracle Cloud & AI Specialization
-  
+* FastAPI Professional Course
+
 ### 💪 Personal Edge
 Discipline from 3+ years of serious training meets engineering rigor.
 I bring the same mindset to AI: consistency, precision, and long-term improvement. No shortcuts—just systems that work.
